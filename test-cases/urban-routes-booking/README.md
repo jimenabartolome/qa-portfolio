@@ -31,6 +31,9 @@ The testing activities included:
 
 Multiple defects were identified, documented, and reported during the testing process.
 
-## Documentation
+## Test Cases Documentation:
+📄 Download Excel version:
+- [urban-routes-test-cases.xlsx](./urban-routes-test-cases.xlsx)
 
-- Test Cases: [urban-routes-test-cases.xlsx](./urban-routes-test-cases.xlsx)
+📊 View online version:
+- https://docs.google.com/spreadsheets/d/1A_1UyfQ5HzUN2dFSJxL8r9kKjLSRJVdx/edit?usp=sharing&ouid=109390595975891928711&rtpof=true&sd=true
