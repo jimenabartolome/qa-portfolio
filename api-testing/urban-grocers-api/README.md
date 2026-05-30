@@ -38,3 +38,6 @@ This project focused on validating API functionality related to kits and deliver
 
 📊 View online version:
 https://docs.google.com/spreadsheets/d/1IqYR2Q4-EpOBP48h-hASSudFgUdX4uQ8CTeC1GgLPnM/edit?usp=sharing
+
+📄 Postman collection:
+[urban-grocers.postman_collection.json](./urban-grocers.postman_collection.json)
