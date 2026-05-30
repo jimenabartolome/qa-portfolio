@@ -10,7 +10,7 @@ Method: POST
 Endpoint: /api/v1/kits/{id}/products
 Browser: Google Chrome
 
-# Preconditions
+## Preconditions
 
 An existing kit is available in the system.
 Example:
