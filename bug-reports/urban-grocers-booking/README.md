@@ -4,13 +4,13 @@ This section contains bug reports documented during testing of the Urban Grocers
 
 ## Each report includes:
 
-Bug description
-Steps to reproduce
-Expected result
-Actual result
-Severity
-Priority
-Evidence
+- Bug description
+- Steps to reproduce
+- Expected result
+- Actual result
+- Severity
+- Priority
+- Evidence
 
 ## Tools:
 Jira
