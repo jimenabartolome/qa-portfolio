@@ -1,4 +1,4 @@
-# BUG-002: "Add card" button becomes active with incomplete card number
+# BUG-001: "Add card" button becomes active with incomplete card number
 
 ## Description
 The "Add card" button becomes enabled when only 11 digits are entered in the "Card Number" field.
