@@ -50,4 +50,4 @@ Open
 
 ## Evidence
 
-[Postman Response](./bug-002-postman-response.png)
+![Postman Response](./bug-002-postman-response.png)
