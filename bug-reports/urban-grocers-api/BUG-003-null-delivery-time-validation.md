@@ -47,3 +47,6 @@ Medium
 
 ## Status
 Open
+
+## Evidence
+![Postman Response](./bug-003-null-delivery-time-response.png)
