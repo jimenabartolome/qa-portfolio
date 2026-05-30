@@ -7,7 +7,7 @@ This section contains bug reports documented during testing of the Urban Grocers
 Each bug report includes:
 
 - Bug description
-- Eviroment
+- Environment
 - Steps to reproduce
 - Expected result
 - Actual result
