@@ -23,15 +23,15 @@ My background in quality control and analytical processes has helped me develop 
 
 ## Test Cases
 
-Manual test cases created during projects completed as part of the TripleTen QA Engineering Bootcamp.
+Manual test cases covering functional testing, boundary value analysis, equivalence partitioning, and positive and negative scenarios.
 
 ## Bug Reports
 
-Bug reports documented during QA projects completed as part of the TripleTen QA Engineering Bootcamp.
+Bug reports including severity, priority, expected and actual results, and reproduction steps.
 
 ## API Testing
 
-API testing projects completed during the TripleTen QA Engineering Bootcamp.
+API testing projects using Postman, request validation, response analysis, and bug reporting.
 
 ## Contact
 - LinkedIn: https://linkedin.com/in/jimenabartolome
