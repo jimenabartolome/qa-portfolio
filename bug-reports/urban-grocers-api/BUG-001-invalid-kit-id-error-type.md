@@ -1,6 +1,6 @@
 BUG-001 – Incorrect Error Type Returned When Adding a Product to a Kit
 
-##Summary
+## Summary
 
 The API returns an incorrect error type when attempting to add a product to a kit using an invalid Kit ID. Instead of returning a 400 Bad Request, the endpoint returns a 500 Internal Server Error.
 
@@ -10,7 +10,7 @@ Method: POST
 Endpoint: /api/v1/kits/{id}/products
 Browser: Google Chrome
 
-#Preconditions
+# Preconditions
 
 An existing kit is available in the system.
 Example:
