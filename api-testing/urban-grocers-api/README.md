@@ -31,3 +31,10 @@ This project focused on validating API functionality related to kits and deliver
 - Negative and positive test scenarios performed.
 - 20 defects identified and reported in Jira.
 - Issues included input validation, error handling, and unexpected API responses.
+
+## Test Cases Documentation:
+📄 Download Excel version:
+[urban-grocers-api-test-cases.xlsx](./urban-grocers-api-test-cases.xlsx)
+
+📊 View online version:
+https://docs.google.com/spreadsheets/d/1IqYR2Q4-EpOBP48h-hASSudFgUdX4uQ8CTeC1GgLPnM/edit?usp=sharing
