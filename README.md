@@ -1,4 +1,4 @@
-                                                    ## Hi, I'm Jimena Bartolomé 👋
+#### Hi, I'm Jimena Bartolomé 👋
 <img width="1774" height="658" alt="ChatGPT Image 29 may 2026, 07_21_23" src="https://github.com/user-attachments/assets/d47825ec-f96a-499b-9fbe-7507d1440c73" />
 
 Junior QA Engineer transitioning from Biochemistry to Software Testing.
