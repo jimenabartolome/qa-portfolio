@@ -25,5 +25,9 @@ This project focused on validating API functionality related to kits and deliver
 - Jira
 
 ## Results
-
-API endpoints were validated through manual testing, and defects were documented and reported when requirements were not met.
+- 55 API test cases designed and executed.
+- API endpoints validated against functional requirements.
+- Request and response data verified using Postman.
+- Negative and positive test scenarios performed.
+- 20 defects identified and reported in Jira.
+- Issues included input validation, error handling, and unexpected API responses.
